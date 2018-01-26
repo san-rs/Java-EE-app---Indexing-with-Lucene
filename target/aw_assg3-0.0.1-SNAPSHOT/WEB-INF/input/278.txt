@@ -1,0 +1,2 @@
+https://en.wikibooks.org/wiki/Java_Programming/Keywords/const
+Java Programming/Keywords/const From Wikibooks, open books for an open world < Java Programming‎ | Keywords Jump to: navigation, search const is a reserved keyword, presently not being used. In other programming languages, such as C, const is often used to declare a constant. However, in Java, final is used instead. Retrieved from "https://en.wikibooks.org/w/index.php?title=Java_Programming/Keywords/const&oldid=3241547" Category: Book:Java Programming/KeywordsHidden category: Pages with deep filing

@@ -1,0 +1,2 @@
+https://en.wikibooks.org/wiki/Java_Programming/Types/boolean
+Java Programming/Types/boolean From Wikibooks, open books for an open world < Java ProgrammingThis page may need to be reviewed for quality. Jump to: navigation, search public class Relational { public static bool lessorequal(int x, int y, int z) { if (boolean x<=(y+z)); return("True"); else return("False"); } } Retrieved from "https://en.wikibooks.org/w/index.php?title=Java_Programming/Types/boolean&oldid=1566638" Category: Book:Java Programming

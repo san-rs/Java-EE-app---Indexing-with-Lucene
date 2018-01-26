@@ -1,0 +1,2 @@
+https://en.wikibooks.org/wiki/Java_Programming/Keywords/goto
+Java Programming/Keywords/goto From Wikibooks, open books for an open world < Java Programming‎ | Keywords Jump to: navigation, search goto is a reserved keyword, presently not being used. Retrieved from "https://en.wikibooks.org/w/index.php?title=Java_Programming/Keywords/goto&oldid=3241560" Category: Book:Java Programming/KeywordsHidden category: Pages with deep filing

@@ -1,0 +1,2 @@
+https://en.wikibooks.org/wiki/Java_Programming/Literals/Boolean_Literals/false
+Java Programming/Literals/Boolean Literals/false From Wikibooks, open books for an open world < Java Programming‎ | Literals Jump to: navigation, search false is a boolean literal representing the false value. See also true. Retrieved from "https://en.wikibooks.org/w/index.php?title=Java_Programming/Literals/Boolean_Literals/false&oldid=3242367" Category: Book:Java Programming

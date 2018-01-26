@@ -1,0 +1,2 @@
+https://en.wikibooks.org/wiki/Java_Programming/Keywords/short
+Java Programming/Keywords/short From Wikibooks, open books for an open world < Java Programming‎ | Keywords Jump to: navigation, search short is a keyword. It defines a 16 bit signed integer primitive type. Syntax: short <variable-name> = <integer-value>; For example: short age = 65; See also: Java Programming/Primitive Types Retrieved from "https://en.wikibooks.org/w/index.php?title=Java_Programming/Keywords/short&oldid=3241575" Category: Book:Java Programming/KeywordsHidden category: Pages with deep filing
